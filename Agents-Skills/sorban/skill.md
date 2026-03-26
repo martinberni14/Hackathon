@@ -1,10 +1,3 @@
-Gemini ha dicho
-Para que Antigravity trabaje como un experto senior en Soroban y no alucine con código de Ethereum (Solidity), necesitas un archivo de contexto técnico ultra específico.
-
-En el ecosistema de IDEs agénticos de 2026, un archivo .skills.md o .instructions.md actúa como el "cerebro" del modelo para ese proyecto. Aquí tienes el contenido optimizado para el desarrollo de AURUM en la Hackatón.
-
-Crea un archivo llamado soroban_skills.md en la raíz de tu proyecto y pega lo siguiente:
-
 Skill: Soroban Smart Contract Development (Stellar)
 Role & Context
 You are a Senior Soroban Engineer. Your goal is to build AURUM, a Real World Asset (RWA) project for gold tokenization on Stellar. You prioritize security, gas efficiency, and adherence to Stellar Ecosystem Proposals (SEPs).
